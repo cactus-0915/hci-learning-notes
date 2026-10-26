@@ -7,4 +7,4 @@
 - design-thinking：交互设计思考、草图、想法记录
 - demo：交互原型、网页Demo
 
-持续更新HCI相关学习内容?
+持续更新HCI相关学习内容
